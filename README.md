@@ -1,4 +1,7 @@
-# test coverage for  [file-size (v1.0.0)](https://github.com/Nijikokun/file-size)  [![npm package](https://img.shields.io/npm/v/npmtest-file-size.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-file-size) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-file-size.svg)](https://travis-ci.org/npmtest/node-npmtest-file-size)
+# npmtest-file-size
+
+#### basic test coverage for  [file-size (v1.0.0)](https://github.com/Nijikokun/file-size)  [![npm package](https://img.shields.io/npm/v/npmtest-file-size.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-file-size) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-file-size.svg)](https://travis-ci.org/npmtest/node-npmtest-file-size)
+
 #### Lightweight filesize to human-readable / proportions w/o dependencies.
 
 [![NPM](https://nodei.co/npm/file-size.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/file-size)
@@ -83,7 +86,8 @@
         "coverage": "make coverage",
         "test": "make test"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
